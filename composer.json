@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2-bootstrap": "@dev"
+        "yiisoft/yii2-bootstrap": "~2.0"
     },
     "autoload": {
         "psr-4": {
